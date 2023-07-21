@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(CALCULAT)
+#add_executable(app add.cpp div.cpp main.cpp mult.cpp sub.cpp)
+set(SRC add.cpp div.cpp main.cpp mult.cpp sub.cpp)
+set(EXECUTABLE_OUTPUT_PATH ./app)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(app ${SRC})
