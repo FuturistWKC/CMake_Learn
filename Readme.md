@@ -1,7 +1,7 @@
 [参考文档](https://subingwen.cn/cmake/CMake-primer/)
 [参考视频](https://www.bilibili.com/video/BV14s4y1g7Zj?p=1&vd_source=e41e557c965196efc71b2d5de8ad6f36)
 
-### cpp编译方式
+### cpp编译
 `g++ *.cpp -o app`  
 compile files  
 `./app`  
