@@ -1,3 +1,0 @@
-/home/darwinvinci/WorkSpace/CProject/CMakeLearn/build/CMakeFiles/app.dir
-/home/darwinvinci/WorkSpace/CProject/CMakeLearn/build/CMakeFiles/edit_cache.dir
-/home/darwinvinci/WorkSpace/CProject/CMakeLearn/build/CMakeFiles/rebuild_cache.dir
